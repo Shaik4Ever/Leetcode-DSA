@@ -1,17 +1,42 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        new_s=""
-        for i in s:
-            if i.isalnum():
-                new_s+=i.lower()
-        # return new_s
-        first=0
-        end=len(new_s)-1
-        while first<end:
-            if new_s[first]!=new_s[end]:
+        #This is TC of O(n)
+
+        # s=s.lower()
+        # forward=""
+        # for i in s:
+        #     if i.isalnum():
+        #         forward+=i
+        # reverse=""
+        # for i in range(len(forward)-1,-1,-1):
+        #     reverse+=forward[i]
+        # if reverse==forward:
+        #     return True
+        # else:
+        #     return False
+
+        #Two Pointers
+        # new_s="".join(i.lower() for i in s if i.isalnum())
+        # left=0
+        # right=len(new_s)-1
+        # while left<right:
+        #     if new_s[left]!=new_s[right]:
+        #         return False
+        #     left+=1
+        #     right-=1
+        # return True
+
+        #Using Slicing
+        # new_s="".join(c.lower() for c in s if c.isalnum())
+        # return new_s==new_s[::-1]
+
+
+        new_s="".join(i.lower() for i in s if i.isalnum())
+        left=0
+        right=len(new_s)-1
+        while left<right:
+            if new_s[left]!=new_s[right]:
                 return False
-            first+=1
-            end-=1
+            left+=1
+            right-=1
         return True
-        
-        
