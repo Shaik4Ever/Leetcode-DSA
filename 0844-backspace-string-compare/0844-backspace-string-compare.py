@@ -1,5 +1,6 @@
 class Solution:
     def backspaceCompare(self, s: str, t: str) -> bool:
+        #Using stack
         
         # r1=[]
         # r2=[]
@@ -22,6 +23,10 @@ class Solution:
         # return r1==r2
 
 
+
+
+
+        #Using Two Pointers
         right=len(s)-1
         ss=""
         skip=0
