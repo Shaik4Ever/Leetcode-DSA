@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
