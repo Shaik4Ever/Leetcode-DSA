@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -66,8 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
