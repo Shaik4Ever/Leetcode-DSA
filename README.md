@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0832-flipping-an-image](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
