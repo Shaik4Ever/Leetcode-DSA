@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1652-defuse-the-bomb) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
 |  |
 | ------- |
