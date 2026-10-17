@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [2465-number-of-distinct-averages](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Quicksort
 |  |
 | ------- |
