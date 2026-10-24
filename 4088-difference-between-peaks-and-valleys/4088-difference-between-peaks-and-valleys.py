@@ -1,7 +1,7 @@
 class Solution:
     def peakValleyDifference(self, nums: list[int]) -> int:
-        peaks=[0]
-        valleys=[0]
+        peaks=0
+        valleys=0
         
         for i in range(len(nums)):
             if i==0:
@@ -10,7 +10,7 @@ class Solution:
                 continue
             else:
                 if nums[i]>nums[i-1] and nums[i]>nums[i+1]:
-                    peaks.append(nums[i])
+                    peaks+=nums[i]
                 elif nums[i]<nums[i-1] and nums[i]<nums[i+1]:
-                    valleys.append(nums[i])
-        return sum(peaks)-sum(valleys)
+                    valleys+=nums[i]
+        return peaks-valleys
