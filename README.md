@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0942-di-string-match) |
 | [1332-remove-palindromic-subsequences](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [3707-equal-score-substrings](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3707-equal-score-substrings) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Array
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3707-equal-score-substrings](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3707-equal-score-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
