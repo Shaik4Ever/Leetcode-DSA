@@ -161,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
