@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-equal-score-substrings](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3707-equal-score-substrings) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2465-number-of-distinct-averages](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Hash Table
 |  |
 | ------- |
