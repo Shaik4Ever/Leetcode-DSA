@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -180,11 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0292-nim-game) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0204-count-primes) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Brainteaser
 |  |
@@ -206,4 +209,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
