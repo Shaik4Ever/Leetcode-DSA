@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0821-shortest-distance-to-a-character](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
@@ -135,12 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [2460-apply-operations-to-an-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2460-apply-operations-to-an-array) |
