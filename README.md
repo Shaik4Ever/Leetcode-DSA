@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0292-nim-game) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
 | ------- |
