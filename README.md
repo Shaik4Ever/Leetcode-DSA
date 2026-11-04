@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0561-array-partition) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0682-baseball-game) |
 | [0821-shortest-distance-to-a-character](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0942-di-string-match) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0204-count-primes) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
