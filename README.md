@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1652-defuse-the-bomb) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Greedy
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2465-number-of-distinct-averages](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
