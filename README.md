@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0942-di-string-match) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1089-duplicate-zeros](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0575-distribute-candies) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2465-number-of-distinct-averages](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0561-array-partition) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
