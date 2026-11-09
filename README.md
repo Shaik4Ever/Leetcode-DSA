@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0575-distribute-candies) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0414-third-maximum-number](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
