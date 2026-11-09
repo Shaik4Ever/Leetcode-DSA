@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2465-number-of-distinct-averages](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Hash Table
