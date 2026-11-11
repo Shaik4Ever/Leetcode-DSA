@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0500-keyboard-row](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
