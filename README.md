@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## String
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
