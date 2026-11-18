@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1436-destination-city) |
 | [3707-equal-score-substrings](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3707-equal-score-substrings) |
+| [3794-reverse-string-prefix](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3992-rearrange-string-to-avoid-character-pair) |
