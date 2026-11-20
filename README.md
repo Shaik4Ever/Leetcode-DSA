@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2562-find-the-array-concatenation-value) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Bracket Sequences
 |  |
