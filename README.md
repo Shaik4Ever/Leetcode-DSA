@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1436-destination-city) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3707-equal-score-substrings](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3707-equal-score-substrings) |
 | [3794-reverse-string-prefix](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
