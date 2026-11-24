@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2465-number-of-distinct-averages) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1436-destination-city) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3707-equal-score-substrings](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3707-equal-score-substrings) |
 | [3794-reverse-string-prefix](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/3794-reverse-string-prefix) |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
