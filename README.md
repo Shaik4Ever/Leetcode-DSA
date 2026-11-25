@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
+| [0819-most-common-word](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0682-baseball-game) |
+| [0819-most-common-word](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0575-distribute-candies) |
+| [0819-most-common-word](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1436-destination-city) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0561-array-partition) |
+| [0819-most-common-word](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0819-most-common-word) |
 ## Pigeonhole Principle
 |  |
 | ------- |
