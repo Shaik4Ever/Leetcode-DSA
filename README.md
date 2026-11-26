@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0292-nim-game) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
