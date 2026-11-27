@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Shaik4Ever/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
